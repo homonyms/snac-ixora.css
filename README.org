@@ -1,0 +1,4 @@
+#+TITLE: snac-ixora.css
+#+AUTHOR: Dohna
+
+A custom theme for [[https://codeberg.org/grunfink/snac2][snac]].
